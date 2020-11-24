@@ -1,4 +1,4 @@
-### Wagwan my people, what you all saying?
+### What we saying my people?
 
 Hello, my name is **Charlie**.
 
