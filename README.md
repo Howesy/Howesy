@@ -1,3 +1,5 @@
+Hello there, I'm <b>Charlie.</b>
+
 <p>
   <details><summary>:zap: My Annual Contribution Stats</summary>
 <img align="left" alt="My GitHub Stats" width="300px" src="https://github-readme-stats.codestackr.vercel.app/api?username=Howesy&show_icons=true&hide_border=true" />
